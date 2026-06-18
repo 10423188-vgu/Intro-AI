@@ -91,8 +91,7 @@ chatRAG/
     ├── dto/
     │   ├── __init__.py
     │   ├── QueryRequest.py
-    │   ├── QueryResponse.py
-    │   └── ErrorResponse.py
+    │   └── QueryResponse.py
     └── util/
         ├── __init__.py
         └── text_search_util.py   # TextSearchUtil, ValidationUtil, LogUtil
