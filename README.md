@@ -16,7 +16,7 @@ Hệ thống RAG (Retrieval-Augmented Generation) cho phép chat với tài li�
 | Vector storage | FaissVectorDBStorage (.index) |
 | Frontend | HTML đơn file (`frontend/index.html`) |
 
-> **Không dùng Docker, không dùng Neo4j.** Toàn bộ chạy local, storage lưu vào thư mục `rag_storage/`.
+>Toàn bộ chạy local, storage lưu vào thư mục `rag_storage/`.
 
 ---
 
